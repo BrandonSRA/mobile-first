@@ -1,0 +1,26 @@
+.body-tables--container {
+    display: flex;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto;
+}
+.body-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--card__premium {
+    margin: 50px auto 0;
+}
+.plans-container--slider{
+    justify-content: center;
+}
+.plans-container--slider::-webkit-scrollbar {
+  background-color: transparent;
+}
+
+.plans-container--slider::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
